@@ -1,6 +1,6 @@
 {
-  "name": "croppie",
-  "version": "2.6.5",
+  "name": "croppier",
+  "version": "0.0.1",
   "description": "A simple javascript image cropper",
   "main": "croppie.js",
   "devDependencies": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Foliotek/Croppie.git"
+    "url": "git+https://github.com/kevinvayro/Croppier.git"
   },
   "keywords": [
     "crop",
@@ -24,14 +24,9 @@
     "cropping"
   ],
   "authors": [
-    "Dustin Smith <thedustinsmith@gmail.com>",
-    "Ethan Calvert <calvert1591@gmail.com>"
+    "Kevin Vayro <thedustinsmith@gmail.com>"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Foliotek/Croppie/issues"
-  },
-  "homepage": "http://foliotek.github.io/Croppie",
   "files": [
     "croppie.css",
     "croppie.js",
